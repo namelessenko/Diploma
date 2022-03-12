@@ -1,0 +1,46 @@
+\documentclass[a4paper,12pt]{report}
+\setcounter{secnumdepth}{3}
+\setcounter{secnumdepth}{4}
+\setcounter{tocdepth}{3}
+\usepackage[utf8]{inputenc}
+ \usepackage[T2A]{fontenc}
+\usepackage[left=2cm,right=2cm,
+    top=2cm,bottom=2cm,bindingoffset=0cm]{geometry}
+\usepackage{breqn}
+\linespread{1,5}
+\usepackage{fontspec}
+\setmainfont{Times New Roman}
+%Language
+\usepackage[ukrainian]{babel}
+%========================================
+%Pictures
+\usepackage{pgfplots}
+\usepackage{graphicx}
+\graphicspath{{pictures/}}
+\DeclareGraphicsExtensions{.pdf,.png,.jpg}
+%========================================
+
+%Титулка
+\title{TiX2-GGA-mGGA}
+\author{Артём Алесеевич}
+\date{December 2021}
+%========================================
+
+%Table contents
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks,
+    citecolor=black,
+    filecolor=black,
+    linkcolor=black,
+    urlcolor=black
+}
+%========================================
+\begin{document}
+\maketitle
+\tableofcontents
+\include{chapter1}
+\include{chapter2}
+\include{bibliography}
+\bibliography{bibliography}
+\end{document}
