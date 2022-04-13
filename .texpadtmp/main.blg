@@ -20,7 +20,6 @@ Warning--I didn't find a database entry for "nanotube3"
 Warning--I didn't find a database entry for "nanotube4"
 Warning--I didn't find a database entry for "nanotube5"
 Warning--I didn't find a database entry for "nanotube6"
-Warning--I didn't find a database entry for "doi:10.1126/science.1102896"
 Warning--I didn't find a database entry for "Hohenberg&Khon"
 Warning--I didn't find a database entry for "Khon&Sham"
 Warning--I didn't find a database entry for "PBE"
@@ -34,7 +33,7 @@ Warning--I didn't find a database entry for "CCSD(T)"
 Warning--I didn't find a database entry for "S22"
 You've used 0 entries,
             1876 wiz_defined-function locations,
-            513 strings with 3956 characters,
+            512 strings with 3929 characters,
 and the built_in function-call counts, 20 in all, are:
 = -- 0
 > -- 0
