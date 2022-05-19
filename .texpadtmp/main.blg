@@ -4,7 +4,7 @@ The top-level auxiliary file: /Users/artemnosenko/Documents/Diploma/LaTex/vdW-DF
 The style file: ieeetr.bst
 A level-1 auxiliary file: Diploma_chapter1.aux
 A level-1 auxiliary file: Diploma_chapter2.aux
-White space in argument---line 16 of file Diploma_chapter2.aux
+White space in argument---line 20 of file Diploma_chapter2.aux
  : \citation{K-S
  :               energy}
 I'm skipping whatever remains of this command
@@ -20,6 +20,24 @@ Warning--I didn't find a database entry for "nanotube3"
 Warning--I didn't find a database entry for "nanotube4"
 Warning--I didn't find a database entry for "nanotube5"
 Warning--I didn't find a database entry for "nanotube6"
+Warning--I didn't find a database entry for "PhysRevB29"
+Warning--I didn't find a database entry for "PhysRevB54"
+Warning--I didn't find a database entry for "PhysRevB16"
+Warning--I didn't find a database entry for "PhysRevB21"
+Warning--I didn't find a database entry for "PhysRevB17"
+Warning--I didn't find a database entry for "PhysRevL55"
+Warning--I didn't find a database entry for "SolidStateCommun53"
+Warning--I didn't find a database entry for "PhysRevB61"
+Warning--I didn't find a database entry for "PhysRev65"
+Warning--I didn't find a database entry for "PhyRevLet88"
+Warning--I didn't find a database entry for "TiTe2_1"
+Warning--I didn't find a database entry for "TiTe2_2"
+Warning--I didn't find a database entry for "TiTe2_3"
+Warning--I didn't find a database entry for "TiTe2_4"
+Warning--I didn't find a database entry for "TiTe2_5"
+Warning--I didn't find a database entry for "TiTe2_6"
+Warning--I didn't find a database entry for "TiTe2_7"
+Warning--I didn't find a database entry for "convexfreeenerg"
 Warning--I didn't find a database entry for "Hohenberg&Khon"
 Warning--I didn't find a database entry for "Khon&Sham"
 Warning--I didn't find a database entry for "PBE"
@@ -33,7 +51,7 @@ Warning--I didn't find a database entry for "CCSD(T)"
 Warning--I didn't find a database entry for "S22"
 You've used 0 entries,
             1876 wiz_defined-function locations,
-            512 strings with 3929 characters,
+            547 strings with 4258 characters,
 and the built_in function-call counts, 20 in all, are:
 = -- 0
 > -- 0
