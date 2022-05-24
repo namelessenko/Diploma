@@ -1,18 +1,18 @@
 \babel@toc {ukrainian}{}
 \contentsline {chapter}{\numberline {1}Вступ}{2}{chapter.1}%
-\contentsline {section}{\numberline {1.1}Літературній огляд досліджуваних систем}{3}{section.1.1}%
-\contentsline {subsection}{\numberline {1.1.1}TiS2}{3}{subsection.1.1.1}%
+\contentsline {section}{\numberline {1.1}Літературній огляд досліджуваних систем}{4}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}TiS2}{4}{subsection.1.1.1}%
 \contentsline {subsection}{\numberline {1.1.2}TiSe2}{5}{subsection.1.1.2}%
-\contentsline {subsection}{\numberline {1.1.3}TiTe2}{6}{subsection.1.1.3}%
-\contentsline {chapter}{\numberline {2}Density Functional Theory}{8}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Загальна теорія}{9}{section.2.1}%
-\contentsline {subsection}{\numberline {2.1.1}Термодинаміка}{9}{subsection.2.1.1}%
-\contentsline {subsection}{\numberline {2.1.2}Підхід Кона-Шама}{11}{subsection.2.1.2}%
-\contentsline {section}{\numberline {2.2}Теореми Кона-Шама}{13}{section.2.2}%
-\contentsline {subsection}{\numberline {2.2.1}Самоузгоджене рівняння Кона-Шама}{14}{subsection.2.2.1}%
-\contentsline {section}{\numberline {2.3}Методи апроксимації \textbf {$E_{xc}$}}{15}{section.2.3}%
-\contentsline {subsection}{\numberline {2.3.1}LDA}{15}{subsection.2.3.1}%
-\contentsline {subsection}{\numberline {2.3.2}GGA}{15}{subsection.2.3.2}%
-\contentsline {subsection}{\numberline {2.3.3}meta-GGA}{16}{subsection.2.3.3}%
-\contentsline {subsubsection}{\numberline {2.3.3.1}SCAN}{16}{subsubsection.2.3.3.1}%
-\contentsline {subsubsection}{\numberline {2.3.3.2}SCAN+rVV10}{16}{subsubsection.2.3.3.2}%
+\contentsline {subsection}{\numberline {1.1.3}TiTe2}{7}{subsection.1.1.3}%
+\contentsline {chapter}{\numberline {2}Density Functional Theory}{9}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Загальна теорія}{10}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Термодинаміка}{10}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}Підхід Кона-Шема}{14}{subsection.2.1.2}%
+\contentsline {section}{\numberline {2.2}Теореми Кона-Шема}{16}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Самоузгоджене рівняння Кона-Шема}{17}{subsection.2.2.1}%
+\contentsline {section}{\numberline {2.3}Методи апроксимації \textbf {$E_{xc}$}}{17}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}LDA}{17}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}GGA}{18}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}meta-GGA}{18}{subsection.2.3.3}%
+\contentsline {subsubsection}{\numberline {2.3.3.1}SCAN}{19}{subsubsection.2.3.3.1}%
+\contentsline {subsubsection}{\numberline {2.3.3.2}SCAN+rVV10}{20}{subsubsection.2.3.3.2}%

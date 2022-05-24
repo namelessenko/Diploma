@@ -4,90 +4,55 @@ The top-level auxiliary file: /Users/artemnosenko/Documents/Diploma/LaTex/vdW-DF
 The style file: ieeetr.bst
 A level-1 auxiliary file: Diploma_chapter1.aux
 A level-1 auxiliary file: Diploma_chapter2.aux
-White space in argument---line 20 of file Diploma_chapter2.aux
+White space in argument---line 19 of file Diploma_chapter2.aux
  : \citation{K-S
  :               energy}
 I'm skipping whatever remains of this command
-A level-1 auxiliary file: bibliography.aux
-I found no \bibdata command---while reading file /Users/artemnosenko/Documents/Diploma/LaTex/vdW-DFT/.texpadtmp/main.aux
-Warning--I didn't find a database entry for "Graphene"
-Warning--I didn't find a database entry for "semiconducter"
-Warning--I didn't find a database entry for "semimetal"
-Warning--I didn't find a database entry for "semimetal_or_semiconducter"
-Warning--I didn't find a database entry for "nanotube"
-Warning--I didn't find a database entry for "nanotube2"
-Warning--I didn't find a database entry for "nanotube3"
-Warning--I didn't find a database entry for "nanotube4"
-Warning--I didn't find a database entry for "nanotube5"
-Warning--I didn't find a database entry for "nanotube6"
-Warning--I didn't find a database entry for "PhysRevB29"
-Warning--I didn't find a database entry for "PhysRevB54"
-Warning--I didn't find a database entry for "PhysRevB16"
-Warning--I didn't find a database entry for "PhysRevB21"
-Warning--I didn't find a database entry for "PhysRevB17"
-Warning--I didn't find a database entry for "PhysRevL55"
-Warning--I didn't find a database entry for "SolidStateCommun53"
-Warning--I didn't find a database entry for "PhysRevB61"
-Warning--I didn't find a database entry for "PhysRev65"
-Warning--I didn't find a database entry for "PhyRevLet88"
+Database file #1: ../biliog.bib
+I was expecting a `,' or a `}'---line 488 of file ../biliog.bib
+ : @article{K-S 
+ :              energy,
+I'm skipping whatever remains of this entry
 Warning--I didn't find a database entry for "TiTe2_1"
-Warning--I didn't find a database entry for "TiTe2_2"
-Warning--I didn't find a database entry for "TiTe2_3"
-Warning--I didn't find a database entry for "TiTe2_4"
-Warning--I didn't find a database entry for "TiTe2_5"
-Warning--I didn't find a database entry for "TiTe2_6"
-Warning--I didn't find a database entry for "TiTe2_7"
-Warning--I didn't find a database entry for "convexfreeenerg"
-Warning--I didn't find a database entry for "Hohenberg&Khon"
-Warning--I didn't find a database entry for "Khon&Sham"
-Warning--I didn't find a database entry for "PBE"
-Warning--I didn't find a database entry for "PW91"
-Warning--I didn't find a database entry for "Swapan&Gosh&Parr"
-Warning--I didn't find a database entry for "Becke&Roussel"
-Warning--I didn't find a database entry for "Tao&Perdew"
-Warning--I didn't find a database entry for "SCAN"
-Warning--I didn't find a database entry for "QMC"
-Warning--I didn't find a database entry for "CCSD(T)"
-Warning--I didn't find a database entry for "S22"
-You've used 0 entries,
+You've used 38 entries,
             1876 wiz_defined-function locations,
-            547 strings with 4258 characters,
-and the built_in function-call counts, 20 in all, are:
-= -- 0
-> -- 0
+            756 strings with 11033 characters,
+and the built_in function-call counts, 13775 in all, are:
+= -- 1433
+> -- 558
 < -- 0
-+ -- 0
-- -- 0
-* -- 2
-:= -- 9
-add.period$ -- 0
-call.type$ -- 0
-change.case$ -- 0
++ -- 199
+- -- 161
+* -- 1035
+:= -- 1862
+add.period$ -- 38
+call.type$ -- 38
+change.case$ -- 38
 chr.to.int$ -- 0
-cite$ -- 0
-duplicate$ -- 0
-empty$ -- 1
-format.name$ -- 0
-if$ -- 1
+cite$ -- 38
+duplicate$ -- 664
+empty$ -- 1101
+format.name$ -- 161
+if$ -- 3358
 int.to.chr$ -- 0
-int.to.str$ -- 0
-missing$ -- 0
-newline$ -- 3
-num.names$ -- 0
-pop$ -- 0
+int.to.str$ -- 38
+missing$ -- 37
+newline$ -- 117
+num.names$ -- 38
+pop$ -- 54
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 1
+skip$ -- 648
 stack$ -- 0
-substring$ -- 0
-swap$ -- 0
+substring$ -- 1212
+swap$ -- 393
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 0
-while$ -- 0
-width$ -- 0
-write$ -- 2
+while$ -- 131
+width$ -- 40
+write$ -- 382
 (There were 2 error messages)

@@ -1,3 +1,203 @@
-\begin{thebibliography}{}
+\begin{thebibliography}{10}
+
+\bibitem{Graphene}
+K.~S. Novoselov, A.~K. Geim, S.~V. Morozov, D.~Jiang, Y.~Zhang, S.~V. Dubonos,
+  I.~V. Grigorieva, and A.~A. Firsov, ``Electric field effect in atomically
+  thin carbon films,'' {\em Science}, vol.~306, no.~5696, pp.~666--669, 2004.
+
+\bibitem{semiconducter}
+C.~H. Chen, W.~Fabian, F.~C. Brown, K.~C. Woo, B.~Davies, B.~DeLong, and A.~H.
+  Thompson, ``Angle-resolved photoemission studies of the band structure of
+  ti${\mathrm{se}}_{2}$ and ti${\mathrm{s}}_{2}$,'' {\em Phys. Rev. B},
+  vol.~21, pp.~615--624, Jan 1980.
+
+\bibitem{semimetal}
+F.~R. Shepherd and P.~M. Williams, ``Photoemission studies of the band
+  structures of transition metal dichalcogenides. i. groups {IVA} and {IVB},''
+  {\em Journal of Physics C: Solid State Physics}, vol.~7, pp.~4416--4426, dec
+  1974.
+
+\bibitem{semimetal_or_semiconducter}
+H.~Wang, Z.~Qiu, W.~Xia, C.~Ming, Y.~Han, L.~Cao, J.~Lu, P.~Zhang, S.~Zhang,
+  H.~Xu, and Y.-Y. Sun, ``Semimetal or semiconductor: The nature of high
+  intrinsic electrical conductivity in tis2,'' {\em The Journal of Physical
+  Chemistry Letters}, vol.~10, pp.~6996--7001, 11 2019.
+
+\bibitem{nanotube}
+J.~Chen, S.-L. Li, Z.-L. Tao, and F.~Gao, ``Low-temperature synthesis of
+  titanium disulfide nanotubes,'' {\em Chem. Commun.}, pp.~980--981, 2003.
+
+\bibitem{nanotube2}
+J.~Chen and Li, ``Lithium intercalation in open-ended tis2 nanotubes,'' {\em
+  Angewandte Chemie}, pp.~2147--2151, 2003.
+
+\bibitem{nanotube3}
+D.~R. Williams and R.~W. Heidebrecht, ``Total synthesis of
+  (+)-4,5-deoxyneodolabelline,'' {\em Journal of the American Chemical
+  Society}, vol.~125, pp.~1843--1850, 02 2003.
+
+\bibitem{nanotube4}
+G.~Seifert, H.~Terrones, M.~Terrones, G.~Jungnickel, and T.~Frauenheim,
+  ``Structure and electronic properties of ${\mathrm{mos}}_{2}$ nanotubes,''
+  {\em Phys. Rev. Lett.}, vol.~85, pp.~146--149, Jul 2000.
+
+\bibitem{nanotube5}
+H.~Terrones and M.~Terrones, ``Curved nanostructured materials,'' {\em New
+  Journal of Physics}, vol.~5, pp.~126--126, oct 2003.
+
+\bibitem{nanotube6}
+G.~Seifert, H.~Terrones, M.~Terrones, G.~Jungnickel, and T.~Frauenheim, ``On
+  the electronic structure of ws2 nanotubes,'' {\em Solid State
+  Communications}, vol.~114, pp.~245--248, Apr 2000.
+
+\bibitem{PhysRevB29}
+D.~K.~G. de~Boer, C.~F. van Bruggen, G.~W. Bus, R.~Coehoorn, C.~Haas, G.~A.
+  Sawatzky, H.~W. Myron, D.~Norman, and H.~Padmore, ``Titanium ditelluride:
+  Band structure, photoemission, and electrical and magnetic properties,'' {\em
+  Phys. Rev. B}, vol.~29, pp.~6797--6809, Jun 1984.
+
+\bibitem{PhysRevB54}
+R.~Claessen, R.~O. Anderson, G.-H. Gweon, J.~W. Allen, W.~P. Ellis,
+  C.~Janowitz, C.~G. Olson, Z.~X. Shen, V.~Eyert, M.~Skibowski, K.~Friemelt,
+  E.~Bucher, and S.~H\"ufner, ``Complete band-structure determination of the
+  quasi-two-dimensional fermi-liquid reference compound
+  ${\mathrm{tite}}_{2}$,'' {\em Phys. Rev. B}, vol.~54, pp.~2453--2465, Jul
+  1996.
+
+\bibitem{PhysRevB16}
+A.~Zunger and A.~J. Freeman, ``Self-consistent numerical-basis-set
+  linear-combination-of-atomic-orbitals investigation of the electronic
+  structure and properties of ti${\mathrm{s}}_{2}$,'' {\em Phys. Rev. B},
+  vol.~16, pp.~906--924, Jul 1977.
+
+\bibitem{PhysRevB21}
+C.~H. Chen, W.~Fabian, F.~C. Brown, K.~C. Woo, B.~Davies, B.~DeLong, and A.~H.
+  Thompson, ``Angle-resolved photoemission studies of the band structure of
+  ti${\mathrm{se}}_{2}$ and ti${\mathrm{s}}_{2}$,'' {\em Phys. Rev. B},
+  vol.~21, pp.~615--624, Jan 1980.
+
+\bibitem{PhysRevB17}
+A.~Zunger and A.~J. Freeman, ``Band structure and lattice instability of
+  ti${\mathrm{se}}_{2}$,'' {\em Phys. Rev. B}, vol.~17, pp.~1839--1842, Feb
+  1978.
+
+\bibitem{PhysRevL55}
+O.~Anderson, R.~Manzke, and M.~Skibowski, ``Three-dimensional and relativistic
+  effects in layered $1t$-ti${\mathrm{se}}_{2}$,'' {\em Phys. Rev. Lett.},
+  vol.~55, pp.~2188--2191, Nov 1985.
+
+\bibitem{SolidStateCommun53}
+O.~Anderson, G.~Karschnick, R.~Manzke, and M.~Skibowski, ``The phase transition
+  in the electronic structure of 1t-tise2,'' {\em Solid State Communications},
+  vol.~53, no.~4, pp.~339--342, 1985.
+
+\bibitem{PhysRevB61}
+T.~Pillo, J.~Hayoz, H.~Berger, F.~L\'evy, L.~Schlapbach, and P.~Aebi,
+  ``Photoemission of bands above the fermi level: The excitonic insulator phase
+  transition in $1t\ensuremath{-}{\mathrm{tise}}_{2}$,'' {\em Phys. Rev. B},
+  vol.~61, pp.~16213--16222, Jun 2000.
+
+\bibitem{PhysRev65}
+K.~Rossnagel, L.~Kipp, and M.~Skibowski, ``Charge-density-wave phase transition
+  in $1t\ensuremath{-}{\mathrm{tise}}_{2}:$ excitonic insulator versus
+  band-type jahn-teller mechanism,'' {\em Phys. Rev. B}, vol.~65, p.~235101,
+  May 2002.
+
+\bibitem{PhyRevLet88}
+T.~E. Kidd, T.~Miller, M.~Y. Chou, and T.-C. Chiang, ``Electron-hole coupling
+  and the charge density wave transition in ${\mathrm{tise}}_{2}$,'' {\em Phys.
+  Rev. Lett.}, vol.~88, p.~226402, May 2002.
+
+\bibitem{TiTe2_2}
+Y.~Arnaud and M.~Chevreton, ``Etude comparative des compos{\'e}s tix2 (x = s,
+  se, te). structures de tite2 et tisete,'' {\em Journal of Solid State
+  Chemistry}, vol.~39, no.~2, pp.~230--239, 1981.
+
+\bibitem{TiTe2_3}
+Y.~Koike, M.~Okamura, T.~Nakanomyo, and T.~Fukase, ``Log t dependence of
+  resistivity and negative magnetoresistance in the layered compound tite2,''
+  {\em Journal of the Physical Society of Japan}, vol.~52, no.~2, pp.~597--604,
+  1983.
+
+\bibitem{TiTe2_4}
+P.~B. Allen and N.~Chetty, ``${\mathrm{tite}}_{2}$: Inconsistency between
+  transport properties and photoemission results,'' {\em Phys. Rev. B},
+  vol.~50, pp.~14855--14859, Nov 1994.
+
+\bibitem{TiTe2_5}
+F.~J. Di~Salvo, D.~E. Moncton, and J.~V. Waszczak, ``Electronic properties and
+  superlattice formation in the semimetal ${\mathrm{tise}}_{2}$,'' {\em Phys.
+  Rev. B}, vol.~14, pp.~4321--4328, Nov 1976.
+
+\bibitem{TiTe2_6}
+K.~Rossnagel, ``On the origin of charge-density waves in select layered
+  transition-metal dichalcogenides,'' {\em Journal of Physics: Condensed
+  Matter}, vol.~23, p.~213001, may 2011.
+
+\bibitem{TiTe2_7}
+P.~Chen, Y.~H. Chan, M.~H. Wong, X.~Y. Fang, M.~Y. Chou, S.~K. Mo, Z.~Hussain,
+  A.~V. Fedorov, and T.~C. Chiang, ``Dimensional effects on the charge density
+  waves in ultrathin films of tise2,'' {\em Nano Letters}, vol.~16,
+  pp.~6331--6336, 10 2016.
+
+\bibitem{convexfreeenerg}
+M.~Valiev and G.~W. Fernando, ``Generalized kohn-sham density-functional theory
+  via effective action formalism,'' 1997.
+
+\bibitem{Hohenberg&Khon}
+P.~Hohenberg and W.~Kohn, ``Inhomogeneous electron gas,'' {\em Phys. Rev.},
+  vol.~136, pp.~B864--B871, Nov 1964.
+
+\bibitem{Khon&Sham}
+W.~Kohn and L.~J. Sham, ``Self-consistent equations including exchange and
+  correlation effects,'' {\em Phys. Rev.}, vol.~140, pp.~A1133--A1138, Nov
+  1965.
+
+\bibitem{PBE}
+J.~P. Perdew, K.~Burke, and M.~Ernzerhof, ``Generalized gradient approximation
+  made simple,'' {\em Phys. Rev. Lett.}, vol.~77, pp.~3865--3868, Oct 1996.
+
+\bibitem{PW91}
+J.~P. Perdew, J.~A. Chevary, S.~H. Vosko, K.~A. Jackson, M.~R. Pederson, D.~J.
+  Singh, and C.~Fiolhais, ``Atoms, molecules, solids, and surfaces:
+  Applications of the generalized gradient approximation for exchange and
+  correlation,'' {\em Phys. Rev. B}, vol.~46, pp.~6671--6687, Sep 1992.
+
+\bibitem{Swapan&Gosh&Parr}
+S.~K. Ghosh and R.~G. Parr, ``Phase-space approach to the exchange-energy
+  functional of density-functional theory,'' {\em Phys. Rev. A}, vol.~34,
+  pp.~785--791, Aug 1986.
+
+\bibitem{Becke&Roussel}
+A.~D. Becke and M.~R. Roussel, ``Exchange holes in inhomogeneous systems: A
+  coordinate-space model,'' {\em Phys. Rev. A}, vol.~39, pp.~3761--3767, Apr
+  1989.
+
+\bibitem{Tao&Perdew}
+J.~Tao, J.~P. Perdew, V.~N. Staroverov, and G.~E. Scuseria, ``Climbing the
+  density functional ladder: Nonempirical meta--generalized gradient
+  approximation designed for molecules and solids,'' {\em Phys. Rev. Lett.},
+  vol.~91, p.~146401, Sep 2003.
+
+\bibitem{SCAN}
+J.~Sun, A.~Ruzsinszky, and J.~P. Perdew, ``Strongly constrained and
+  appropriately normed semilocal density functional,'' {\em Phys. Rev. Lett.},
+  vol.~115, p.~036402, Jul 2015.
+
+\bibitem{QMC}
+W.~M.~C. Foulkes, L.~Mitas, R.~J. Needs, and G.~Rajagopal, ``Quantum monte
+  carlo simulations of solids,'' {\em Rev. Mod. Phys.}, vol.~73, pp.~33--83,
+  Jan 2001.
+
+\bibitem{CCSD(T)}
+K.~Raghavachari, G.~W. Trucks, J.~A. Pople, and M.~Head-Gordon, ``A fifth-order
+  perturbation comparison of electron correlation theories,'' {\em Chemical
+  Physics Letters}, vol.~157, no.~6, pp.~479--483, 1989.
+
+\bibitem{S22}
+P.~Jure{\v c}ka, J.~{\v S}poner, J.~{\v C}ern{\'y}, and P.~Hobza, ``Benchmark
+  database of accurate (mp2 and ccsd(t) complete basis set limit) interaction
+  energies of small model complexes{,} dna base pairs{,} and amino acid
+  pairs,'' {\em Phys. Chem. Chem. Phys.}, vol.~8, pp.~1985--1993, 2006.
 
 \end{thebibliography}
