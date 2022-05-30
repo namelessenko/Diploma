@@ -1,19 +1,26 @@
 \documentclass[a4paper,14pt]{extreport}
+\usepackage[utf8]{inputenc}
+
+%Language&Font
+%Geometry
 \setcounter{secnumdepth}{4}
 \setcounter{tocdepth}{3}
-\usepackage[utf8]{inputenc}
-\usepackage{amsmath}
-%Language&Font
 \usepackage[left=2cm,right=2cm,
     top=2cm,bottom=2cm,bindingoffset=0cm]{geometry}
 \usepackage{breqn}
-\linespread{1.8}
+\linespread{2}
 \usepackage[ukrainian]{babel}
 %\setmainfont{Times New Roman}
 %\usepackage{lmodern} 
 \usepackage[T1]{fontenc}
+
+
+%========================================
+%Math
 \usepackage{mathtools}
 \usepackage{float}
+\usepackage{amsmath}
+\newcommand{\angstrom}{\text{\normalfont\AA}}
 %========================================
 %Pictures
 \usepackage{svg}
@@ -21,6 +28,10 @@
 \usepackage{graphicx}
 \graphicspath{{img/}}
 \DeclareGraphicsExtensions{.pdf,.png,.jpg,.eps, .svg}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{hyperref}
+\DeclareCaptionType{constrains}[Список][Список]
 
 %========================================
 %Титулка
@@ -47,6 +58,6 @@
 \tableofcontents
 \include{Diploma_chapter1.tex}
 \include{Diploma_chapter2.tex}
-%\include{bibliography.tex}
+\bibliographystyle{unsrt}
 \bibliography{biliog}
 \end{document}

@@ -134,6 +134,14 @@ K.~Rossnagel, ``On the origin of charge-density waves in select layered
   transition-metal dichalcogenides,'' {\em Journal of Physics: Condensed
   Matter}, vol.~23, p.~213001, may 2011.
 
+\bibitem{PhysRevB.54.2453}
+R.~Claessen, R.~O. Anderson, G.-H. Gweon, J.~W. Allen, W.~P. Ellis,
+  C.~Janowitz, C.~G. Olson, Z.~X. Shen, V.~Eyert, M.~Skibowski, K.~Friemelt,
+  E.~Bucher, and S.~H\"ufner, ``Complete band-structure determination of the
+  quasi-two-dimensional fermi-liquid reference compound
+  ${\mathrm{tite}}_{2}$,'' {\em Phys. Rev. B}, vol.~54, pp.~2453--2465, Jul
+  1996.
+
 \bibitem{TiTe2_7}
 P.~Chen, Y.~H. Chan, M.~H. Wong, X.~Y. Fang, M.~Y. Chou, S.~K. Mo, Z.~Hussain,
   A.~V. Fedorov, and T.~C. Chiang, ``Dimensional effects on the charge density
@@ -143,6 +151,12 @@ P.~Chen, Y.~H. Chan, M.~H. Wong, X.~Y. Fang, M.~Y. Chou, S.~K. Mo, Z.~Hussain,
 \bibitem{convexfreeenerg}
 M.~Valiev and G.~W. Fernando, ``Generalized kohn-sham density-functional theory
   via effective action formalism,'' 1997.
+
+\bibitem{KSenergy}
+M.~C. Payne, M.~P. Teter, D.~C. Allan, T.~A. Arias, and J.~D. Joannopoulos,
+  ``Iterative minimization techniques for ab initio total-energy calculations:
+  molecular dynamics and conjugate gradients,'' {\em Rev. Mod. Phys.}, vol.~64,
+  pp.~1045--1097, Oct 1992.
 
 \bibitem{Hohenberg&Khon}
 P.~Hohenberg and W.~Kohn, ``Inhomogeneous electron gas,'' {\em Phys. Rev.},
@@ -184,20 +198,35 @@ J.~Sun, A.~Ruzsinszky, and J.~P. Perdew, ``Strongly constrained and
   appropriately normed semilocal density functional,'' {\em Phys. Rev. Lett.},
   vol.~115, p.~036402, Jul 2015.
 
-\bibitem{QMC}
-W.~M.~C. Foulkes, L.~Mitas, R.~J. Needs, and G.~Rajagopal, ``Quantum monte
-  carlo simulations of solids,'' {\em Rev. Mod. Phys.}, vol.~73, pp.~33--83,
-  Jan 2001.
+\bibitem{PhysRevB.45}
+J.~P. Perdew and Y.~Wang, ``Accurate and simple analytic representation of the
+  electron-gas correlation energy,'' {\em Phys. Rev. B}, vol.~45,
+  pp.~13244--13249, Jun 1992.
 
-\bibitem{CCSD(T)}
-K.~Raghavachari, G.~W. Trucks, J.~A. Pople, and M.~Head-Gordon, ``A fifth-order
-  perturbation comparison of electron correlation theories,'' {\em Chemical
-  Physics Letters}, vol.~157, no.~6, pp.~479--483, 1989.
+\bibitem{PhysRevLett.103}
+J.~P. Perdew, A.~Ruzsinszky, G.~I. Csonka, L.~A. Constantin, and J.~Sun,
+  ``Workhorse semilocal density functional for condensed matter physics and
+  quantum chemistry,'' {\em Phys. Rev. Lett.}, vol.~103, p.~026403, Jul 2009.
 
-\bibitem{S22}
-P.~Jure{\v c}ka, J.~{\v S}poner, J.~{\v C}ern{\'y}, and P.~Hobza, ``Benchmark
-  database of accurate (mp2 and ccsd(t) complete basis set limit) interaction
-  energies of small model complexes{,} dna base pairs{,} and amino acid
-  pairs,'' {\em Phys. Chem. Chem. Phys.}, vol.~8, pp.~1985--1993, 2006.
+\bibitem{PhysRevB.76}
+B.~Wood, N.~D.~M. Hine, W.~M.~C. Foulkes, and P.~Garc\'{\i}a-Gonz\'alez,
+  ``Quantum monte carlo calculations of the surface energy of an electron
+  gas,'' {\em Phys. Rev. B}, vol.~76, p.~035403, Jul 2007.
+
+\bibitem{PhysRevB.54}
+M.~Springer, P.~S. Svendsen, and U.~von Barth, ``Straightforward gradient
+  approximation for the exchange energy of $s\ensuremath{-}p$ bonded solids,''
+  {\em Phys. Rev. B}, vol.~54, pp.~17392--17401, Dec 1996.
+
+\bibitem{PhysRevB.44}
+V.~I. Anisimov, J.~Zaanen, and O.~K. Andersen, ``Band theory and mott
+  insulators: Hubbard u instead of stoner i,'' {\em Phys. Rev. B}, vol.~44,
+  pp.~943--954, Jul 1991.
+
+\bibitem{Anisimov1997}
+V.~I. Anisimov, F.~Aryasetiawan, and A.~I. Lichtenstein, ``First-principles
+  calculations of the electronic structure and spectra of strongly correlated
+  systems: The lda + u method,'' {\em Journal of Physics: Condensed Matter},
+  vol.~9, pp.~767--808, jan 1997.
 
 \end{thebibliography}
