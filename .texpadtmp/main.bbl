@@ -148,6 +148,11 @@ P.~Chen, Y.~H. Chan, M.~H. Wong, X.~Y. Fang, M.~Y. Chou, S.~K. Mo, Z.~Hussain,
   waves in ultrathin films of tise2,'' {\em Nano Letters}, vol.~16,
   pp.~6331--6336, 10 2016.
 
+\bibitem{Yoffe}
+J.~Wilson and A.~Yoffe, ``The transition metal dichalcogenides discussion and
+  interpretation of the observed optical, electrical and structural
+  properties,'' {\em Advances in Physics}, vol.~18, no.~73, pp.~193--335, 1969.
+
 \bibitem{convexfreeenerg}
 M.~Valiev and G.~W. Fernando, ``Generalized kohn-sham density-functional theory
   via effective action formalism,'' 1997.
@@ -228,5 +233,46 @@ V.~I. Anisimov, F.~Aryasetiawan, and A.~I. Lichtenstein, ``First-principles
   calculations of the electronic structure and spectra of strongly correlated
   systems: The lda + u method,'' {\em Journal of Physics: Condensed Matter},
   vol.~9, pp.~767--808, jan 1997.
+
+\bibitem{FU2016221}
+Q.~Fu and B.~Xiang, ``Monolayer transition metal disulfide: Synthesis,
+  characterization and applications,'' {\em Progress in Natural Science:
+  Materials International}, vol.~26, no.~3, pp.~221--231, 2016.
+\newblock Special Issue on Nanomaterials in Energy.
+
+\bibitem{VASP1}
+G.~Kresse and J.~Hafner, ``Ab initio molecular dynamics for liquid metals,''
+  {\em Phys. Rev. B}, vol.~47, pp.~558--561, Jan 1993.
+
+\bibitem{VASP2}
+G.~Kresse and J.~Furthm\"uller, ``Efficiency of ab-initio total energy
+  calculations for metals and semiconductors using a plane-wave basis set,''
+  {\em Comput. Mater. Sci.}, vol.~6, no.~1, pp.~15 -- 50, 1996.
+
+\bibitem{VASP3}
+G.~Kresse and J.~Furthm\"uller, ``Efficient iterative schemes for ab initio
+  total-energy calculations using a plane-wave basis set,'' {\em Phys. Rev. B},
+  vol.~54, pp.~11169--11186, Oct 1996.
+
+\bibitem{VASP4}
+G.~Kresse and D.~Joubert, ``From ultrasoft pseudopotentials to the projector
+  augmented-wave method,'' {\em Phys. Rev. B}, vol.~59, pp.~1758--1775, Jan
+  1999.
+
+\bibitem{Python}
+G.~Van~Rossum and F.~L. Drake, {\em Python 3 Reference Manual}.
+\newblock Scotts Valley, CA: CreateSpace, 2009.
+
+\bibitem{PyMatgen}
+S.~P. Ong, W.~D. Richards, A.~Jain, G.~Hautier, M.~Kocher, S.~Cholia,
+  D.~Gunter, V.~L. Chevrier, K.~A. Persson, and G.~Ceder, ``Python materials
+  genomics (pymatgen): A robust, open-source python library for materials
+  analysis,'' {\em Computational Materials Science}, vol.~68, pp.~314--319,
+  2013.
+
+\bibitem{Ifermi}
+A.~Ganose, A.~Searle, A.~Jain, and S.~Griffin, ``Ifermi: A python library for
+  fermi surface generation and analysis,'' {\em Journal of Open Source
+  Software}, vol.~6, p.~3089, 03 2021.
 
 \end{thebibliography}

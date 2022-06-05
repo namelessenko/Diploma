@@ -2,52 +2,54 @@ This is BibTeX, Version 0.99d (TeX Live 2021)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: /Users/artemnosenko/Documents/Diploma/LaTex/vdW-DFT/.texpadtmp/main.aux
 The style file: ieeetr.bst
-A level-1 auxiliary file: Diploma_chapter1.aux
-A level-1 auxiliary file: Diploma_chapter2.aux
-Illegal, another \bibstyle command---line 27 of file /Users/artemnosenko/Documents/Diploma/LaTex/vdW-DFT/.texpadtmp/main.aux
+A level-1 auxiliary file: chapter1.aux
+A level-1 auxiliary file: chapter2.aux
+A level-1 auxiliary file: chapter3.aux
+A level-1 auxiliary file: concl.aux
+Illegal, another \bibstyle command---line 29 of file /Users/artemnosenko/Documents/Diploma/LaTex/vdW-DFT/.texpadtmp/main.aux
  : \bibstyle
  :          {unsrt}
 I'm skipping whatever remains of this command
 Database file #1: ../biliog.bib
-You've used 43 entries,
+You've used 52 entries,
             1876 wiz_defined-function locations,
-            778 strings with 11776 characters,
-and the built_in function-call counts, 15762 in all, are:
-= -- 1643
-> -- 646
+            845 strings with 13375 characters,
+and the built_in function-call counts, 18682 in all, are:
+= -- 1952
+> -- 748
 < -- 0
-+ -- 230
-- -- 187
-* -- 1186
-:= -- 2125
-add.period$ -- 43
-call.type$ -- 43
-change.case$ -- 43
++ -- 267
+- -- 215
+* -- 1392
+:= -- 2516
+add.period$ -- 54
+call.type$ -- 52
+change.case$ -- 51
 chr.to.int$ -- 0
-cite$ -- 43
-duplicate$ -- 762
-empty$ -- 1243
-format.name$ -- 187
-if$ -- 3835
+cite$ -- 52
+duplicate$ -- 909
+empty$ -- 1496
+format.name$ -- 215
+if$ -- 4564
 int.to.chr$ -- 0
-int.to.str$ -- 43
-missing$ -- 42
-newline$ -- 132
-num.names$ -- 43
-pop$ -- 60
+int.to.str$ -- 52
+missing$ -- 52
+newline$ -- 161
+num.names$ -- 52
+pop$ -- 75
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 754
+skip$ -- 886
 stack$ -- 0
-substring$ -- 1388
-swap$ -- 458
+substring$ -- 1628
+swap$ -- 537
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 0
-while$ -- 149
-width$ -- 45
-write$ -- 431
+while$ -- 176
+width$ -- 54
+write$ -- 525
 (There was 1 error message)

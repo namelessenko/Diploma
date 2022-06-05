@@ -8,12 +8,21 @@
 \usepackage[left=2cm,right=2cm,
     top=2cm,bottom=2cm,bindingoffset=0cm]{geometry}
 \usepackage{breqn}
-\linespread{2}
+\linespread{1.5}
 \usepackage[ukrainian]{babel}
 %\setmainfont{Times New Roman}
 %\usepackage{lmodern} 
 \usepackage[T1]{fontenc}
+\usepackage{layouts}
+\usepackage{lipsum}
 
+
+%========================================
+%Table
+\usepackage{booktabs, multirow} % for borders and merged ranges
+\usepackage{soul}% for underlines
+\usepackage[table]{xcolor} % for cell colors
+\usepackage{changepage,threeparttable} % for wide tables
 
 %========================================
 %Math
@@ -27,7 +36,7 @@
 \usepackage{pgfplots}
 \usepackage{graphicx}
 \graphicspath{{img/}}
-\DeclareGraphicsExtensions{.pdf,.png,.jpg,.eps, .svg}
+\DeclareGraphicsExtensions{.pdf,.png,.jpg,.eps, .svg, pgf}
 \usepackage{caption}
 \usepackage{subcaption}
 \usepackage{hyperref}
@@ -56,8 +65,10 @@
 \begin{document}
 \maketitle
 \tableofcontents
-\include{Diploma_chapter1.tex}
-\include{Diploma_chapter2.tex}
+\include{chapter1.tex}
+\include{chapter2.tex}
+\include{chapter3.tex}
+\include{concl.tex}
 \bibliographystyle{unsrt}
 \bibliography{biliog}
 \end{document}
