@@ -1,6 +1,7 @@
 \documentclass[a4paper,14pt]{extreport}
 \usepackage[utf8]{inputenc}
 
+
 %Language&Font
 %Geometry
 \setcounter{secnumdepth}{4}
@@ -8,7 +9,7 @@
 \usepackage[left=2cm,right=2cm,
     top=2cm,bottom=2cm,bindingoffset=0cm]{geometry}
 \usepackage{breqn}
-\linespread{1.5}
+\linespread{1.3}
 \usepackage[ukrainian]{babel}
 %\setmainfont{Times New Roman}
 %\usepackage{lmodern} 
@@ -44,9 +45,10 @@
 
 %========================================
 %Титулка
-\title{Дипломна робота}
-\author{Носенко Артем Олексійович}
-\date{December 2021}
+%\title{Дипломна робота}
+%\author{Носенко Артем Олексійович}
+%\date{December 2021}
+
 
 %========================================
 %Table contents
@@ -63,12 +65,15 @@
 %========================================
 %Body
 \begin{document}
-\maketitle
+%\include{titelpage.tex}
 \tableofcontents
+\include{summary.tex}
 \include{chapter1.tex}
 \include{chapter2.tex}
 \include{chapter3.tex}
+\addcontentsline{toc}{chapter}{Висновки}
 \include{concl.tex}
+\addcontentsline{toc}{chapter}{Бібліоґрафія}
 \bibliographystyle{unsrt}
 \bibliography{biliog}
 \end{document}

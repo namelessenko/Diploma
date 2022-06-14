@@ -153,6 +153,56 @@ J.~Wilson and A.~Yoffe, ``The transition metal dichalcogenides discussion and
   interpretation of the observed optical, electrical and structural
   properties,'' {\em Advances in Physics}, vol.~18, no.~73, pp.~193--335, 1969.
 
+\bibitem{Benesh_1985}
+G.~A. Benesh, A.~M. Woolley, and C.~Umrigar, ``The pressure dependences of tis2
+  and tise2 band structures,'' {\em Journal of Physics C: Solid State Physics},
+  vol.~18, pp.~1595--1603, mar 1985.
+
+\bibitem{GREENAWAY19651445}
+D.~Greenaway and R.~Nitsche, ``Preparation and optical properties of group
+  iv--vi2 chalcogenides having the cdi2 structure,'' {\em Journal of Physics
+  and Chemistry of Solids}, vol.~26, no.~9, pp.~1445--1458, 1965.
+
+\bibitem{Beal_1972}
+A.~R. Beal, J.~C. Knights, and W.~Y. Liang, ``Transmission spectra of some
+  transition metal dichalcogenides. {II}. group {VIA}: trigonal prismatic
+  coordination,'' {\em Journal of Physics C: Solid State Physics}, vol.~5,
+  pp.~3540--3551, dec 1972.
+
+\bibitem{Klipstein_1984}
+P.~C. Klipstein and R.~H. Friend, ``Semiconductor to semimetal transition in
+  tis$_2$ 40 kbar,'' {\em Journal of Physics C: Solid State Physics}, vol.~17,
+  pp.~2713--2734, may 1984.
+
+\bibitem{PhysRevB.58.7668}
+D.~H. S.~Bocharov, ``Polarized x-ray-absorption spectra of tis$_2$, tise$_2$,
+  tite$_2$,'' {\em Phys. Rev. B}, vol.~58, pp.~7668--7674, Sep 1998.
+
+\bibitem{PhysRevB.56.3212}
+M.~Kohno and M.~Takahashi, ``Magnetization process of the spin-$\frac{1}{2}$
+  $\mathrm{XXZ}$ models on square and cubic lattices,'' {\em Phys. Rev. B},
+  vol.~56, pp.~3212--3217, Aug 1997.
+
+\bibitem{PhysRevB.8.3576}
+D.~W. Fischer, ``X-ray band spectra and electronic structure of
+  ti${\mathrm{s}}_{2}$,'' {\em Phys. Rev. B}, vol.~8, pp.~3576--3582, Oct 1973.
+
+\bibitem{PhysRevB.29.2060}
+N.~Nagaoso and E.~Hanamura, ``Microscopic theory of the raman and infrared
+  spectra of transition-metal dichalcogenides in the charge-density-wave
+  state,'' {\em Phys. Rev. B}, vol.~29, pp.~2060--2076, Feb 1984.
+
+\bibitem{PhysRevB.29.6797}
+D.~K.~G. de~Boer, C.~F. van Bruggen, G.~W. Bus, R.~Coehoorn, C.~Haas, G.~A.
+  Sawatzky, H.~W. Myron, D.~Norman, and H.~Padmore, ``Titanium ditelluride:
+  Band structure, photoemission, and electrical and magnetic properties,'' {\em
+  Phys. Rev. B}, vol.~29, pp.~6797--6809, Jun 1984.
+
+\bibitem{PhysRevLett.88.226402}
+T.~E. Kidd, T.~Miller, M.~Y. Chou, and T.-C. Chiang, ``Electron-hole coupling
+  and the charge density wave transition in ${\mathrm{tise}}_{2}$,'' {\em Phys.
+  Rev. Lett.}, vol.~88, p.~226402, May 2002.
+
 \bibitem{convexfreeenerg}
 M.~Valiev and G.~W. Fernando, ``Generalized kohn-sham density-functional theory
   via effective action formalism,'' 1997.
@@ -274,5 +324,10 @@ S.~P. Ong, W.~D. Richards, A.~Jain, G.~Hautier, M.~Kocher, S.~Cholia,
 A.~Ganose, A.~Searle, A.~Jain, and S.~Griffin, ``Ifermi: A python library for
   fermi surface generation and analysis,'' {\em Journal of Open Source
   Software}, vol.~6, p.~3089, 03 2021.
+
+\bibitem{Peng_2016}
+H.~Peng, Z.-H. Yang, J.~P. Perdew, and J.~Sun, ``Versatile van der waals
+  density functional based on a meta-generalized gradient approximation,''
+  vol.~6, oct 2016.
 
 \end{thebibliography}
