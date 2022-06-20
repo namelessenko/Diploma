@@ -2,64 +2,65 @@ This is BibTeX, Version 0.99d (TeX Live 2021)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: /Users/artemnosenko/Documents/Diploma/LaTex/vdW-DFT/.texpadtmp/main.aux
 The style file: ieeetr.bst
+A level-1 auxiliary file: titelpage.aux
 A level-1 auxiliary file: summary.aux
 A level-1 auxiliary file: chapter1.aux
 A level-1 auxiliary file: chapter2.aux
 A level-1 auxiliary file: chapter3.aux
 A level-1 auxiliary file: concl.aux
-Illegal, another \bibstyle command---line 31 of file /Users/artemnosenko/Documents/Diploma/LaTex/vdW-DFT/.texpadtmp/main.aux
+Illegal, another \bibstyle command---line 32 of file /Users/artemnosenko/Documents/Diploma/LaTex/vdW-DFT/.texpadtmp/main.aux
  : \bibstyle
  :          {unsrt}
 I'm skipping whatever remains of this command
 Database file #1: ../biliog.bib
-Repeated entry---line 578 of file ../biliog.bib
+Repeated entry---line 705 of file ../biliog.bib
  : @article{PhysRevB.54.2453
  :                          ,
 I'm skipping whatever remains of this entry
-Illegal end of database file---line 1065 of file ../biliog.bib
- :  journal = {Physical Review X}
- :                               
+I was expecting a `,' or a `}'---line 1192 of file ../biliog.bib
+ : 
+ : @article{doi:10.1063/1.3617244,
+(Error may have been on previous line)
 I'm skipping whatever remains of this entry
-Warning--empty journal in Peng_2016
-You've used 63 entries,
+You've used 73 entries,
             1876 wiz_defined-function locations,
-            904 strings with 14954 characters,
-and the built_in function-call counts, 22506 in all, are:
-= -- 2370
-> -- 867
+            971 strings with 17298 characters,
+and the built_in function-call counts, 25655 in all, are:
+= -- 2680
+> -- 1025
 < -- 0
-+ -- 311
-- -- 248
-* -- 1671
-:= -- 3014
-add.period$ -- 65
-call.type$ -- 63
-change.case$ -- 62
++ -- 367
+- -- 294
+* -- 1906
+:= -- 3458
+add.period$ -- 75
+call.type$ -- 73
+change.case$ -- 72
 chr.to.int$ -- 0
-cite$ -- 64
-duplicate$ -- 1100
-empty$ -- 1814
-format.name$ -- 248
-if$ -- 5503
+cite$ -- 73
+duplicate$ -- 1270
+empty$ -- 2051
+format.name$ -- 294
+if$ -- 6275
 int.to.chr$ -- 0
-int.to.str$ -- 63
-missing$ -- 63
-newline$ -- 194
-num.names$ -- 63
-pop$ -- 90
+int.to.str$ -- 73
+missing$ -- 73
+newline$ -- 224
+num.names$ -- 73
+pop$ -- 104
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 1073
+skip$ -- 1230
 stack$ -- 0
-substring$ -- 1996
-swap$ -- 649
+substring$ -- 2166
+swap$ -- 748
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 1
-while$ -- 214
-width$ -- 65
-write$ -- 634
+warning$ -- 0
+while$ -- 239
+width$ -- 75
+write$ -- 736
 (There were 3 error messages)

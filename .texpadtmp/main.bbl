@@ -5,6 +5,45 @@ K.~S. Novoselov, A.~K. Geim, S.~V. Morozov, D.~Jiang, Y.~Zhang, S.~V. Dubonos,
   I.~V. Grigorieva, and A.~A. Firsov, ``Electric field effect in atomically
   thin carbon films,'' {\em Science}, vol.~306, no.~5696, pp.~666--669, 2004.
 
+\bibitem{Dolui_2016}
+K.~Dolui and S.~Sanvito, ``Dimensionality-driven phonon softening and incipient
+  charge density wave instability in {TiS$_2$},'' {\em {EPL} (Europhysics
+  Letters)}, vol.~115, p.~47001, aug 2016.
+
+\bibitem{Mottas_2019}
+M.-L. Mottas, T.~Jaouen, B.~Hildebrand, M.~Rumo, F.~Vanini, E.~Razzoli,
+  E.~Giannini, C.~Barreteau, D.~R. Bowler, C.~Monney, H.~Beck, and P.~Aebi,
+  ``Semimetal-to-semiconductor transition and charge-density-wave suppression
+  in single crystals,'' {\em Physical Review B}, vol.~99, apr 2019.
+
+\bibitem{PhysRevLett.86.3799}
+M.~Holt, P.~Zschack, H.~Hong, M.~Y. Chou, and T.-C. Chiang, ``X-ray studies of
+  phonon softening in ${\mathrm{tise}}_{2}$,'' {\em Phys. Rev. Lett.}, vol.~86,
+  pp.~3799--3802, Apr 2001.
+
+\bibitem{PhysRevLett.106.106404}
+C.~Monney, C.~Battaglia, H.~Cercellier, P.~Aebi, and H.~Beck, ``Exciton
+  condensation driving the periodic lattice distortion of
+  $1t\mathrm{\text{\ensuremath{-}}}{\mathrm{tise}}_{2}$,'' {\em Phys. Rev.
+  Lett.}, vol.~106, p.~106404, Mar 2011.
+
+\bibitem{doi:10.1143/JPSJ.49.898}
+Y.~Yoshida and K.~Motizuki, ``Electron lattice interaction and lattice
+  instability of 1t-tise2,'' {\em Journal of the Physical Society of Japan},
+  vol.~49, no.~3, pp.~898--905, 1980.
+
+\bibitem{PhysRevLett.107.176404}
+J.~van Wezel, R.~Schuster, A.~K\"onig, M.~Knupfer, J.~van~den Brink, H.~Berger,
+  and B.~B\"uchner, ``Effect of charge order on the plasmon dispersion in
+  transition-metal dichalcogenides,'' {\em Phys. Rev. Lett.}, vol.~107,
+  p.~176404, Oct 2011.
+
+\bibitem{PhysRevLett.113.177001}
+R.~Ganesh, G.~Baskaran, J.~van~den Brink, and D.~V. Efremov, ``Theoretical
+  prediction of a time-reversal broken chiral superconducting phase driven by
+  electronic correlations in a single ${\mathrm{tise}}_{2}$ layer,'' {\em Phys.
+  Rev. Lett.}, vol.~113, p.~177001, Oct 2014.
+
 \bibitem{semiconducter}
 C.~H. Chen, W.~Fabian, F.~C. Brown, K.~C. Woo, B.~Davies, B.~DeLong, and A.~H.
   Thompson, ``Angle-resolved photoemission studies of the band structure of
@@ -22,6 +61,11 @@ H.~Wang, Z.~Qiu, W.~Xia, C.~Ming, Y.~Han, L.~Cao, J.~Lu, P.~Zhang, S.~Zhang,
   H.~Xu, and Y.-Y. Sun, ``Semimetal or semiconductor: The nature of high
   intrinsic electrical conductivity in tis2,'' {\em The Journal of Physical
   Chemistry Letters}, vol.~10, pp.~6996--7001, 11 2019.
+
+\bibitem{2015JPS...280...18P}
+N.~{Pereira}, G.~G. {Amatucci}, M.~S. {Whittingham}, and R.~{Hamlen},
+  ``{Lithium-titanium disulfide rechargeable cell performance after 35 years of
+  storage},'' {\em Journal of Power Sources}, vol.~280, pp.~18--22, Apr. 2015.
 
 \bibitem{nanotube}
 J.~Chen, S.-L. Li, Z.-L. Tao, and F.~Gao, ``Low-temperature synthesis of
@@ -207,6 +251,10 @@ T.~E. Kidd, T.~Miller, M.~Y. Chou, and T.-C. Chiang, ``Electron-hole coupling
 M.~Valiev and G.~W. Fernando, ``Generalized kohn-sham density-functional theory
   via effective action formalism,'' 1997.
 
+\bibitem{Argaman_2000}
+N.~Argaman and G.~Makov, ``Density functional theory: An introduction,'' {\em
+  American Journal of Physics}, vol.~68, pp.~69--79, jan 2000.
+
 \bibitem{KSenergy}
 M.~C. Payne, M.~P. Teter, D.~C. Allan, T.~A. Arias, and J.~D. Joannopoulos,
   ``Iterative minimization techniques for ab initio total-energy calculations:
@@ -325,9 +373,15 @@ A.~Ganose, A.~Searle, A.~Jain, and S.~Griffin, ``Ifermi: A python library for
   fermi surface generation and analysis,'' {\em Journal of Open Source
   Software}, vol.~6, p.~3089, 03 2021.
 
+\bibitem{doi:10.1063/1.3617244}
+M.~E. Arroyo-de Dompablo, A.~Morales-Garc{\'\i}a, and M.~Taravillo, ``Dft+u
+  calculations of crystal lattice, electronic structure, and phase stability
+  under pressure of tio2 polymorphs,'' {\em The Journal of Chemical Physics},
+  vol.~135, no.~5, p.~054503, 2011.
+
 \bibitem{Peng_2016}
 H.~Peng, Z.-H. Yang, J.~P. Perdew, and J.~Sun, ``Versatile van der waals
-  density functional based on a meta-generalized gradient approximation,''
-  vol.~6, oct 2016.
+  density functional based on a meta-generalized gradient approximation,'' {\em
+  Physical Review X}, vol.~6, oct 2016.
 
 \end{thebibliography}

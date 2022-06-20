@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.3.11)  14 JUN 2022 15:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.3.11)  20 JUN 2022 15:28
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1039,9 +1039,9 @@ Package newfloat Info: New float `constrains' with options `' on input line 44.
 \c@constrains=\count394
 Package newfloat Info: float type `constrains'=4 on input line 44.
 \c@subconstrains=\count395
-Package hyperref Info: Option `colorlinks' set `true' on input line 63.
- (/Users/artemnosenko/Documents/Diploma/LaTex/vdW-DFT/.texpadtmp/main.aux
-LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 24.
+Package hyperref Info: Option `colorlinks' set `true' on input line 56.
+ (/Users/artemnosenko/Documents/Diploma/LaTex/vdW-DFT/.texpadtmp/main.aux (/Users/artemnosenko/Documents/Diploma/LaTex/vdW-DFT/.texpadtmp/titelpage.aux)
+LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 25.
  (/usr/local/texlive/2021/texmf-dist/tex/latex/cyrillic/t2acmr.fd
 File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 ) (/Users/artemnosenko/Documents/Diploma/LaTex/vdW-DFT/.texpadtmp/summary.aux) (/Users/artemnosenko/Documents/Diploma/LaTex/vdW-DFT/.texpadtmp/chapter1.aux) (/Users/artemnosenko/Documents/Diploma/LaTex/vdW-DFT/.texpadtmp/chapter2.aux
@@ -1054,26 +1054,26 @@ LaTeX Warning: Label `sub@fig:sub1' multiply defined.
 ) (/Users/artemnosenko/Documents/Diploma/LaTex/vdW-DFT/.texpadtmp/chapter3.aux) (/Users/artemnosenko/Documents/Diploma/LaTex/vdW-DFT/.texpadtmp/concl.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1128,14 +1128,14 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (/usr/local/texlive/2021/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-LaTeX Info: Redefining \th on input line 67.
+LaTeX Info: Redefining \th on input line 60.
 
 
-Package layouts Warning: Layout scale set to 0.5 on input line 67.
+Package layouts Warning: Layout scale set to 0.5 on input line 60.
 
 
 Package pgfplots Warning: running in backwards compatibility mode (unsuitable tick labels; missing features). Consider writing \pgfplotsset{compat=1.17} into your preamble.
- on input line 67.
+ on input line 60.
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
@@ -1144,7 +1144,7 @@ Package caption Info: End \AtBeginDocument code.
 Package hyperref Warning: Height of page (\stockheight) is invalid (0.0pt),
 (hyperref)                using 11in.
 
-Package hyperref Info: Link coloring ON on input line 67.
+Package hyperref Info: Link coloring ON on input line 60.
 (/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
  (/usr/local/texlive/2021/texmf-dist/tex/latex/refcount/refcount.sty
@@ -1154,18 +1154,28 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count402
 )
-LaTeX Info: Redefining \ref on input line 67.
-LaTeX Info: Redefining \pageref on input line 67.
-LaTeX Info: Redefining \nameref on input line 67.
+LaTeX Info: Redefining \ref on input line 60.
+LaTeX Info: Redefining \pageref on input line 60.
+LaTeX Info: Redefining \nameref on input line 60.
  (/Users/artemnosenko/Documents/Diploma/LaTex/vdW-DFT/.texpadtmp/main.out) (/Users/artemnosenko/Documents/Diploma/LaTex/vdW-DFT/.texpadtmp/main.out)
 \@outlinefile=\write4
 \openout4 = `main.out'.
 
 Package newfloat Info: `float' package detected.
- (/Users/artemnosenko/Documents/Diploma/LaTex/vdW-DFT/.texpadtmp/main.toc [1
+\openout2 = `titelpage.aux'.
+
+ (./titelpage.tex [1
 
 
-{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}])
+{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]) (/Users/artemnosenko/Documents/Diploma/LaTex/vdW-DFT/.texpadtmp/main.tocpdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.25 ...Р‘С–Р±Р»С–РѕТ‘СЂР°С„С–СЏ}{43}{chapter*.19}
+                                                  % [1
+
+
+
+])
 \tf@toc=\write5
 \openout5 = `main.toc'.
 
@@ -1180,16 +1190,11 @@ Overfull \hbox (2.46953pt too wide) in paragraph at lines 5--8
 [3
 
 ]
-Overfull \hbox (7.0461pt too wide) in paragraph at lines 33--34
+Overfull \hbox (7.0461pt too wide) in paragraph at lines 37--38
 []\T2A/cmr/bx/n/14.4 Key words\T2A/cmr/m/n/14.4 : transi-ti-on metal di-chalcogeni-des, band calculati-ons, densi-ty functi-
  []
 
-)
-Overfull \hbox (31.53806pt too wide) in paragraph at lines 37--70
-\T2A/cmr/m/n/14.4 parameteri-zati-on wi-thin the framework of densi-ty functi-onal theory, opti-mal parameters
- []
-
-[4
+) [4
 
 ]
 \openout2 = `chapter1.aux'.
@@ -1201,7 +1206,33 @@ Overfull \hbox (31.53806pt too wide) in paragraph at lines 37--70
 
 
 
-] [6] [7]
+]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 13.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 13.
+
+[6]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 19.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 19.
+
+[7]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 23.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 23.
+
 
 LaTeX Warning: Command \cyre invalid in math mode on input line 24.
 
@@ -1221,7 +1252,7 @@ Missing character: There is no В in font cmr12!
 
 
 ] [12]
-<img/Legender_transform.pdf, id=280, 184.69pt x 107.40126pt>
+<img/Legender_transform.pdf, id=303, 184.69pt x 107.40126pt>
 File: img/Legender_transform.pdf Graphic file (type pdf)
 <use img/Legender_transform.pdf>
 Package pdftex.def Info: img/Legender_transform.pdf  used on input line 41.
@@ -1261,7 +1292,6 @@ Overfull \hbox (58.28587pt too wide) in paragraph at lines 172--173
 []\T2A/cmr/m/n/14.4 Нульова енер-гiя ко-ре-ля-цiЁ для будь-якоЁ одно-еле-ктрон-ноЁ спiн-поляризованоЁ
  []
 
-[19]
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 180.
@@ -1269,58 +1299,57 @@ See the caption package documentation for explanation.
 
 Package hyperref Info: bookmark level for unknown constrains defaults to 0 on input line 180.
 
-Package caption Warning: \label without proper reference on input line 302.
+Package caption Warning: \label without proper reference on input line 301.
 See the caption package documentation for explanation.
 
 
-LaTeX Warning: Reference `fig:F_factor' on page 20 undefined on input line 184.
+LaTeX Warning: Reference `fig:F_factor' on page 19 undefined on input line 183.
 
-[20] [21]
-Overfull \hbox (4.6192pt too wide) in paragraph at lines 286--287
+[19] [20] [21]
+Overfull \hbox (4.6192pt too wide) in paragraph at lines 285--286
 []\T2A/cmr/m/n/14.4 обмiнно-кореляцiйна енер-гiя по-верх-нi же-ле при па-ра-ме-трi на-си-пноЁ щiль-
  []
 
-[22]
-<img//F_factor1v3.pdf, id=434, 693.34032pt x 456.20438pt>
+<img//F_factor1v3.pdf, id=450, 693.34032pt x 456.20438pt>
 File: img//F_factor1v3.pdf Graphic file (type pdf)
 <use img//F_factor1v3.pdf>
-Package pdftex.def Info: img//F_factor1v3.pdf  used on input line 305.
+Package pdftex.def Info: img//F_factor1v3.pdf  used on input line 304.
 (pdftex.def)             Requested size: 435.32422pt x 286.44267pt.
-<img//F_factor2.pdf, id=435, 703.12688pt x 436.63126pt>
+<img//F_factor2.pdf, id=451, 703.12688pt x 436.63126pt>
 File: img//F_factor2.pdf Graphic file (type pdf)
 <use img//F_factor2.pdf>
-Package pdftex.def Info: img//F_factor2.pdf  used on input line 312.
+Package pdftex.def Info: img//F_factor2.pdf  used on input line 311.
 (pdftex.def)             Requested size: 435.32422pt x 270.32881pt.
 
-Overfull \hbox (7.30992pt too wide) in paragraph at lines 311--314
+Overfull \hbox (7.30992pt too wide) in paragraph at lines 310--313
 []|  [] 
  []
 
-[23] [24 <./img//F_factor1v3.pdf> <./img//F_factor2.pdf
+[22] [23 <./img//F_factor1v3.pdf> <./img//F_factor2.pdf
 
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./img//F_factor2.pdf): PDF inclusion: multiple pdfs with page group included in a single page
->] [25]
-<img//GAP.pdf, id=476, 671.50874pt x 680.5425pt>
+>] [24]
+<img//GAP.pdf, id=497, 671.50874pt x 680.5425pt>
 File: img//GAP.pdf Graphic file (type pdf)
 <use img//GAP.pdf>
-Package pdftex.def Info: img//GAP.pdf  used on input line 329.
+Package pdftex.def Info: img//GAP.pdf  used on input line 328.
 (pdftex.def)             Requested size: 335.75356pt x 340.27042pt.
- [26 <./img//GAP.pdf>]) [27]
+ [25 <./img//GAP.pdf>]) [26]
 \openout2 = `chapter3.aux'.
 
  (./chapter3.tex
 {\cyrillictext \CYRR \cyro \cyrz \cyrd \cyrii \cyrl } 3.
-<img//structure.pdf, id=501, 433.62pt x 364.36125pt>
+<img//structure.pdf, id=521, 433.62pt x 364.36125pt>
 File: img//structure.pdf Graphic file (type pdf)
 <use img//structure.pdf>
 Package pdftex.def Info: img//structure.pdf  used on input line 7.
 (pdftex.def)             Requested size: 433.61894pt x 364.36035pt.
-[28
+[27
 
 
 
 
-] [29 <./img//structure.pdf>] [30] [31]
+] [28 <./img//structure.pdf>] [29] [30]
 Package epstopdf Info: Source file: <img/results/TiS2_GGA_relaxed_BAND+DOS.eps>
 (epstopdf)                    date: 2022-06-01 23:16:09
 (epstopdf)                    size: 3827761 bytes
@@ -1330,7 +1359,7 @@ Package epstopdf Info: Source file: <img/results/TiS2_GGA_relaxed_BAND+DOS.eps>
 (epstopdf)             Command: <repstopdf --outfile=img/results/TiS2_GGA_relaxed_BAND+DOS-eps-converted-to.pdf img/results/TiS2_GGA_relaxed_BAND+DOS.eps>
 (epstopdf)             \includegraphics on input line 94.
 Package epstopdf Info: Output file is already uptodate.
-<img/results/TiS2_GGA_relaxed_BAND+DOS-eps-converted-to.pdf, id=552, 1445.4pt x 1084.05pt>
+<img/results/TiS2_GGA_relaxed_BAND+DOS-eps-converted-to.pdf, id=572, 1445.4pt x 1084.05pt>
 File: img/results/TiS2_GGA_relaxed_BAND+DOS-eps-converted-to.pdf Graphic file (type pdf)
 <use img/results/TiS2_GGA_relaxed_BAND+DOS-eps-converted-to.pdf>
 Package pdftex.def Info: img/results/TiS2_GGA_relaxed_BAND+DOS-eps-converted-to.pdf  used on input line 94.
@@ -1344,7 +1373,7 @@ Package epstopdf Info: Source file: <img/results/TiSe2_GGA_relaxed_BAND+DOS.eps>
 (epstopdf)             Command: <repstopdf --outfile=img/results/TiSe2_GGA_relaxed_BAND+DOS-eps-converted-to.pdf img/results/TiSe2_GGA_relaxed_BAND+DOS.eps>
 (epstopdf)             \includegraphics on input line 98.
 Package epstopdf Info: Output file is already uptodate.
-<img/results/TiSe2_GGA_relaxed_BAND+DOS-eps-converted-to.pdf, id=553, 1445.4pt x 1084.05pt>
+<img/results/TiSe2_GGA_relaxed_BAND+DOS-eps-converted-to.pdf, id=573, 1445.4pt x 1084.05pt>
 File: img/results/TiSe2_GGA_relaxed_BAND+DOS-eps-converted-to.pdf Graphic file (type pdf)
 <use img/results/TiSe2_GGA_relaxed_BAND+DOS-eps-converted-to.pdf>
 Package pdftex.def Info: img/results/TiSe2_GGA_relaxed_BAND+DOS-eps-converted-to.pdf  used on input line 98.
@@ -1358,32 +1387,29 @@ Package epstopdf Info: Source file: <img/results/TiTe2_GGA_relaxed_BAND+DOS.eps>
 (epstopdf)             Command: <repstopdf --outfile=img/results/TiTe2_GGA_relaxed_BAND+DOS-eps-converted-to.pdf img/results/TiTe2_GGA_relaxed_BAND+DOS.eps>
 (epstopdf)             \includegraphics on input line 103.
 Package epstopdf Info: Output file is already uptodate.
-<img/results/TiTe2_GGA_relaxed_BAND+DOS-eps-converted-to.pdf, id=554, 1445.4pt x 1084.05pt>
+<img/results/TiTe2_GGA_relaxed_BAND+DOS-eps-converted-to.pdf, id=574, 1445.4pt x 1084.05pt>
 File: img/results/TiTe2_GGA_relaxed_BAND+DOS-eps-converted-to.pdf Graphic file (type pdf)
 <use img/results/TiTe2_GGA_relaxed_BAND+DOS-eps-converted-to.pdf>
 Package pdftex.def Info: img/results/TiTe2_GGA_relaxed_BAND+DOS-eps-converted-to.pdf  used on input line 103.
 (pdftex.def)             Requested size: 193.47578pt x 145.09984pt.
-<img/results/fstite2.pdf, id=557, 702.625pt x 702.625pt>
+<img/results/fstite2.pdf, id=577, 702.625pt x 702.625pt>
 File: img/results/fstite2.pdf Graphic file (type pdf)
 <use img/results/fstite2.pdf>
 Package pdftex.def Info: img/results/fstite2.pdf  used on input line 116.
 (pdftex.def)             Requested size: 193.47578pt x 193.47441pt.
-<img/results/fstise2.pdf, id=558, 702.625pt x 702.625pt>
+<img/results/fstise2.pdf, id=578, 702.625pt x 702.625pt>
 File: img/results/fstise2.pdf Graphic file (type pdf)
 <use img/results/fstise2.pdf>
 Package pdftex.def Info: img/results/fstise2.pdf  used on input line 120.
 (pdftex.def)             Requested size: 193.47578pt x 193.47441pt.
-<img/results/fstis2.pdf, id=559, 702.625pt x 702.625pt>
+<img/results/fstis2.pdf, id=579, 702.625pt x 702.625pt>
 File: img/results/fstis2.pdf Graphic file (type pdf)
 <use img/results/fstis2.pdf>
 Package pdftex.def Info: img/results/fstis2.pdf  used on input line 125.
 (pdftex.def)             Requested size: 435.32422pt x 435.33353pt.
- [32
+ [31
 
- <./img/results/TiS2_GGA_relaxed_BAND+DOS-eps-converted-to.pdf> <./img/results/TiSe2_GGA_relaxed_BAND+DOS-eps-converted-to.pdf> <./img/results/TiTe2_GGA_relaxed_BAND+DOS-eps-converted-to.pdf>]
-Overfull \vbox (1.17224pt too high) has occurred while \output is active []
-
- [33 <./img/results/fstite2.pdf> <./img/results/fstise2.pdf> <./img/results/fstis2.pdf>]
+ <./img/results/TiS2_GGA_relaxed_BAND+DOS-eps-converted-to.pdf> <./img/results/TiSe2_GGA_relaxed_BAND+DOS-eps-converted-to.pdf> <./img/results/TiTe2_GGA_relaxed_BAND+DOS-eps-converted-to.pdf>] [32 <./img/results/fstite2.pdf> <./img/results/fstise2.pdf> <./img/results/fstis2.pdf>]
 Package epstopdf Info: Source file: <img/results/TiS2_SCAN_relaxed_BAND+DOS.eps>
 (epstopdf)                    date: 2022-06-03 14:29:06
 (epstopdf)                    size: 1519814 bytes
@@ -1393,7 +1419,7 @@ Package epstopdf Info: Source file: <img/results/TiS2_SCAN_relaxed_BAND+DOS.eps>
 (epstopdf)             Command: <repstopdf --outfile=img/results/TiS2_SCAN_relaxed_BAND+DOS-eps-converted-to.pdf img/results/TiS2_SCAN_relaxed_BAND+DOS.eps>
 (epstopdf)             \includegraphics on input line 138.
 Package epstopdf Info: Output file is already uptodate.
-<img/results/TiS2_SCAN_relaxed_BAND+DOS-eps-converted-to.pdf, id=732, 1445.4pt x 1084.05pt>
+<img/results/TiS2_SCAN_relaxed_BAND+DOS-eps-converted-to.pdf, id=752, 1445.4pt x 1084.05pt>
 File: img/results/TiS2_SCAN_relaxed_BAND+DOS-eps-converted-to.pdf Graphic file (type pdf)
 <use img/results/TiS2_SCAN_relaxed_BAND+DOS-eps-converted-to.pdf>
 Package pdftex.def Info: img/results/TiS2_SCAN_relaxed_BAND+DOS-eps-converted-to.pdf  used on input line 138.
@@ -1407,7 +1433,7 @@ Package epstopdf Info: Source file: <img/results/TiSe2_SCAN_relaxed_BAND+DOS.eps
 (epstopdf)             Command: <repstopdf --outfile=img/results/TiSe2_SCAN_relaxed_BAND+DOS-eps-converted-to.pdf img/results/TiSe2_SCAN_relaxed_BAND+DOS.eps>
 (epstopdf)             \includegraphics on input line 142.
 Package epstopdf Info: Output file is already uptodate.
-<img/results/TiSe2_SCAN_relaxed_BAND+DOS-eps-converted-to.pdf, id=733, 1445.4pt x 1084.05pt>
+<img/results/TiSe2_SCAN_relaxed_BAND+DOS-eps-converted-to.pdf, id=753, 1445.4pt x 1084.05pt>
 File: img/results/TiSe2_SCAN_relaxed_BAND+DOS-eps-converted-to.pdf Graphic file (type pdf)
 <use img/results/TiSe2_SCAN_relaxed_BAND+DOS-eps-converted-to.pdf>
 Package pdftex.def Info: img/results/TiSe2_SCAN_relaxed_BAND+DOS-eps-converted-to.pdf  used on input line 142.
@@ -1421,22 +1447,22 @@ Package epstopdf Info: Source file: <img/results/TiTe2_SCAN_relaxed_BAND+DOS.eps
 (epstopdf)             Command: <repstopdf --outfile=img/results/TiTe2_SCAN_relaxed_BAND+DOS-eps-converted-to.pdf img/results/TiTe2_SCAN_relaxed_BAND+DOS.eps>
 (epstopdf)             \includegraphics on input line 147.
 Package epstopdf Info: Output file is already uptodate.
-<img/results/TiTe2_SCAN_relaxed_BAND+DOS-eps-converted-to.pdf, id=734, 1445.4pt x 1084.05pt>
+<img/results/TiTe2_SCAN_relaxed_BAND+DOS-eps-converted-to.pdf, id=754, 1445.4pt x 1084.05pt>
 File: img/results/TiTe2_SCAN_relaxed_BAND+DOS-eps-converted-to.pdf Graphic file (type pdf)
 <use img/results/TiTe2_SCAN_relaxed_BAND+DOS-eps-converted-to.pdf>
 Package pdftex.def Info: img/results/TiTe2_SCAN_relaxed_BAND+DOS-eps-converted-to.pdf  used on input line 147.
 (pdftex.def)             Requested size: 193.47578pt x 145.09984pt.
- [34]
+ [33 <./img/results/TiS2_SCAN_relaxed_BAND+DOS-eps-converted-to.pdf> <./img/results/TiSe2_SCAN_relaxed_BAND+DOS-eps-converted-to.pdf> <./img/results/TiTe2_SCAN_relaxed_BAND+DOS-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <img//results/TiS2_GGA+U--variation.eps>
-(epstopdf)                    date: 2022-06-02 18:32:42
-(epstopdf)                    size: 244300 bytes
+(epstopdf)                    date: 2022-06-20 13:49:44
+(epstopdf)                    size: 241248 bytes
 (epstopdf)             Output file: <img//results/TiS2_GGA+U--variation-eps-converted-to.pdf>
-(epstopdf)                    date: 2022-06-02 18:33:48
-(epstopdf)                    size: 71656 bytes
+(epstopdf)                    date: 2022-06-20 13:56:15
+(epstopdf)                    size: 71080 bytes
 (epstopdf)             Command: <repstopdf --outfile=img//results/TiS2_GGA+U--variation-eps-converted-to.pdf img//results/TiS2_GGA+U--variation.eps>
 (epstopdf)             \includegraphics on input line 158.
 Package epstopdf Info: Output file is already uptodate.
-<img//results/TiS2_GGA+U--variation-eps-converted-to.pdf, id=741, 867.24pt x 578.16pt>
+<img//results/TiS2_GGA+U--variation-eps-converted-to.pdf, id=902, 867.24pt x 578.16pt>
 File: img//results/TiS2_GGA+U--variation-eps-converted-to.pdf Graphic file (type pdf)
 <use img//results/TiS2_GGA+U--variation-eps-converted-to.pdf>
 Package pdftex.def Info: img//results/TiS2_GGA+U--variation-eps-converted-to.pdf  used on input line 158.
@@ -1446,7 +1472,7 @@ Overfull \hbox (36.65115pt too wide) in paragraph at lines 158--159
 [][] 
  []
 
-[35 <./img/results/TiS2_SCAN_relaxed_BAND+DOS-eps-converted-to.pdf> <./img/results/TiSe2_SCAN_relaxed_BAND+DOS-eps-converted-to.pdf> <./img/results/TiTe2_SCAN_relaxed_BAND+DOS-eps-converted-to.pdf>] [36 <./img//results/TiS2_GGA+U--variation-eps-converted-to.pdf>]
+[34 <./img//results/TiS2_GGA+U--variation-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <img//results/TiS2_SCAN+U-variation.eps>
 (epstopdf)                    date: 2022-06-02 18:40:49
 (epstopdf)                    size: 111956 bytes
@@ -1456,7 +1482,7 @@ Package epstopdf Info: Source file: <img//results/TiS2_SCAN+U-variation.eps>
 (epstopdf)             Command: <repstopdf --outfile=img//results/TiS2_SCAN+U-variation-eps-converted-to.pdf img//results/TiS2_SCAN+U-variation.eps>
 (epstopdf)             \includegraphics on input line 186.
 Package epstopdf Info: Output file is already uptodate.
-<img//results/TiS2_SCAN+U-variation-eps-converted-to.pdf, id=934, 867.24pt x 578.16pt>
+<img//results/TiS2_SCAN+U-variation-eps-converted-to.pdf, id=952, 867.24pt x 578.16pt>
 File: img//results/TiS2_SCAN+U-variation-eps-converted-to.pdf Graphic file (type pdf)
 <use img//results/TiS2_SCAN+U-variation-eps-converted-to.pdf>
 Package pdftex.def Info: img//results/TiS2_SCAN+U-variation-eps-converted-to.pdf  used on input line 186.
@@ -1466,7 +1492,7 @@ Overfull \hbox (36.65115pt too wide) in paragraph at lines 186--187
 [][] 
  []
 
-[37]
+[35]
 Package epstopdf Info: Source file: <img//results/SCAN-rVV10+U.eps>
 (epstopdf)                    date: 2022-06-04 18:13:04
 (epstopdf)                    size: 2983498 bytes
@@ -1476,7 +1502,7 @@ Package epstopdf Info: Source file: <img//results/SCAN-rVV10+U.eps>
 (epstopdf)             Command: <repstopdf --outfile=img//results/SCAN-rVV10+U-eps-converted-to.pdf img//results/SCAN-rVV10+U.eps>
 (epstopdf)             \includegraphics on input line 193.
 Package epstopdf Info: Output file is already uptodate.
-<img//results/SCAN-rVV10+U-eps-converted-to.pdf, id=945, 816.04875pt x 890.32625pt>
+<img//results/SCAN-rVV10+U-eps-converted-to.pdf, id=962, 816.04875pt x 890.32625pt>
 File: img//results/SCAN-rVV10+U-eps-converted-to.pdf Graphic file (type pdf)
 <use img//results/SCAN-rVV10+U-eps-converted-to.pdf>
 Package pdftex.def Info: img//results/SCAN-rVV10+U-eps-converted-to.pdf  used on input line 193.
@@ -1486,11 +1512,7 @@ Overfull \hbox (5.93617pt too wide) in paragraph at lines 193--194
 [][] 
  []
 
-[38 <./img//results/TiS2_SCAN+U-variation-eps-converted-to.pdf>]
-Overfull \hbox (8.59843pt too wide) in paragraph at lines 197--198
-[]\T2A/cmr/m/n/14.4 Пiсля цьо-го бу-ло ви-ко-ри-ста-но для стру-ктур-ноЁ ре-ла-кса-цiЁ ван-дер-Ваальсовi
- []
-
+[36 <./img//results/TiS2_SCAN+U-variation-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <img//results/TiS2_SCAN_vs._SCAN+U.eps>
 (epstopdf)                    date: 2022-06-02 18:55:36
 (epstopdf)                    size: 49113 bytes
@@ -1500,7 +1522,7 @@ Package epstopdf Info: Source file: <img//results/TiS2_SCAN_vs._SCAN+U.eps>
 (epstopdf)             Command: <repstopdf --outfile=img//results/TiS2_SCAN_vs._SCAN+U-eps-converted-to.pdf img//results/TiS2_SCAN_vs._SCAN+U.eps>
 (epstopdf)             \includegraphics on input line 200.
 Package epstopdf Info: Output file is already uptodate.
-<img//results/TiS2_SCAN_vs._SCAN+U-eps-converted-to.pdf, id=997, 867.24pt x 578.16pt>
+<img//results/TiS2_SCAN_vs._SCAN+U-eps-converted-to.pdf, id=1015, 867.24pt x 578.16pt>
 File: img//results/TiS2_SCAN_vs._SCAN+U-eps-converted-to.pdf Graphic file (type pdf)
 <use img//results/TiS2_SCAN_vs._SCAN+U-eps-converted-to.pdf>
 Package pdftex.def Info: img//results/TiS2_SCAN_vs._SCAN+U-eps-converted-to.pdf  used on input line 200.
@@ -1519,7 +1541,7 @@ Package epstopdf Info: Source file: <img//results/TiSe2_SCAN_vs._SCAN+U.eps>
 (epstopdf)             Command: <repstopdf --outfile=img//results/TiSe2_SCAN_vs._SCAN+U-eps-converted-to.pdf img//results/TiSe2_SCAN_vs._SCAN+U.eps>
 (epstopdf)             \includegraphics on input line 205.
 Package epstopdf Info: Output file is already uptodate.
-<img//results/TiSe2_SCAN_vs._SCAN+U-eps-converted-to.pdf, id=998, 867.24pt x 578.16pt>
+<img//results/TiSe2_SCAN_vs._SCAN+U-eps-converted-to.pdf, id=1016, 867.24pt x 578.16pt>
 File: img//results/TiSe2_SCAN_vs._SCAN+U-eps-converted-to.pdf Graphic file (type pdf)
 <use img//results/TiSe2_SCAN_vs._SCAN+U-eps-converted-to.pdf>
 Package pdftex.def Info: img//results/TiSe2_SCAN_vs._SCAN+U-eps-converted-to.pdf  used on input line 205.
@@ -1538,7 +1560,7 @@ Package epstopdf Info: Source file: <img//results/TiTe2_SCAN_vs._SCAN+U.eps>
 (epstopdf)             Command: <repstopdf --outfile=img//results/TiTe2_SCAN_vs._SCAN+U-eps-converted-to.pdf img//results/TiTe2_SCAN_vs._SCAN+U.eps>
 (epstopdf)             \includegraphics on input line 210.
 Package epstopdf Info: Output file is already uptodate.
-<img//results/TiTe2_SCAN_vs._SCAN+U-eps-converted-to.pdf, id=999, 867.24pt x 578.16pt>
+<img//results/TiTe2_SCAN_vs._SCAN+U-eps-converted-to.pdf, id=1017, 867.24pt x 578.16pt>
 File: img//results/TiTe2_SCAN_vs._SCAN+U-eps-converted-to.pdf Graphic file (type pdf)
 <use img//results/TiTe2_SCAN_vs._SCAN+U-eps-converted-to.pdf>
 Package pdftex.def Info: img//results/TiTe2_SCAN_vs._SCAN+U-eps-converted-to.pdf  used on input line 210.
@@ -1548,24 +1570,24 @@ Overfull \hbox (36.65115pt too wide) in paragraph at lines 210--211
 [][] 
  []
 
-) [39 <./img//results/SCAN-rVV10+U-eps-converted-to.pdf>] [40 <./img//results/TiS2_SCAN_vs._SCAN+U-eps-converted-to.pdf>] [41 <./img//results/TiSe2_SCAN_vs._SCAN+U-eps-converted-to.pdf>] [42 <./img//results/TiTe2_SCAN_vs._SCAN+U-eps-converted-to.pdf>] [43]
+) [37 <./img//results/SCAN-rVV10+U-eps-converted-to.pdf>] [38 <./img//results/TiS2_SCAN_vs._SCAN+U-eps-converted-to.pdf>] [39 <./img//results/TiSe2_SCAN_vs._SCAN+U-eps-converted-to.pdf>] [40 <./img//results/TiTe2_SCAN_vs._SCAN+U-eps-converted-to.pdf>] [41]
 \openout2 = `concl.aux'.
 
- (./concl.tex) [44
+ (./concl.tex) [42
 
 
 
 
-] (/Users/artemnosenko/Documents/Diploma/LaTex/vdW-DFT/.texpadtmp/main.bbl
-Underfull \hbox (badness 1102) in paragraph at lines 35--38
+] (/Users/artemnosenko/Documents/Diploma/LaTex/vdW-DFT/.texpadtmp/main.bbl [43
+
+
+
+]
+Underfull \hbox (badness 1102) in paragraph at lines 79--82
 []\T2A/cmr/m/n/14.4 D. R. Wi-lli-ams and R. W. Hei-debrecht, ``Total synthesis of (+)-4,5-
  []
 
-[45
-
-
-
-] [46] [47] [48] [49] [50]) [51] (/Users/artemnosenko/Documents/Diploma/LaTex/vdW-DFT/.texpadtmp/main.aux (/Users/artemnosenko/Documents/Diploma/LaTex/vdW-DFT/.texpadtmp/summary.aux) (/Users/artemnosenko/Documents/Diploma/LaTex/vdW-DFT/.texpadtmp/chapter1.aux) (/Users/artemnosenko/Documents/Diploma/LaTex/vdW-DFT/.texpadtmp/chapter2.aux) (/Users/artemnosenko/Documents/Diploma/LaTex/vdW-DFT/.texpadtmp/chapter3.aux) (/Users/artemnosenko/Documents/Diploma/LaTex/vdW-DFT/.texpadtmp/concl.aux))
+[44] [45] [46] [47] [48] [49]) [50] (/Users/artemnosenko/Documents/Diploma/LaTex/vdW-DFT/.texpadtmp/main.aux (/Users/artemnosenko/Documents/Diploma/LaTex/vdW-DFT/.texpadtmp/titelpage.aux) (/Users/artemnosenko/Documents/Diploma/LaTex/vdW-DFT/.texpadtmp/summary.aux) (/Users/artemnosenko/Documents/Diploma/LaTex/vdW-DFT/.texpadtmp/chapter1.aux) (/Users/artemnosenko/Documents/Diploma/LaTex/vdW-DFT/.texpadtmp/chapter2.aux) (/Users/artemnosenko/Documents/Diploma/LaTex/vdW-DFT/.texpadtmp/chapter3.aux) (/Users/artemnosenko/Documents/Diploma/LaTex/vdW-DFT/.texpadtmp/concl.aux))
 
 LaTeX Warning: There were undefined references.
 
@@ -1573,21 +1595,21 @@ LaTeX Warning: There were undefined references.
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 4F08D71AC9004DAD1EE3B1FA32318C3A;4216.
+(rerunfilecheck)             Checksum: 9E8BE9673A41745F13373735E4832CAE;4308.
  ) 
 Here is how much of TeX's memory you used:
- 35925 strings out of 478994
- 803804 string characters out of 5858184
- 1346041 words of memory out of 5000000
- 52536 multiletter control sequences out of 15000+600000
- 424036 words of font info for 68 fonts, out of 8000000 for 9000
+ 35962 strings out of 478994
+ 804728 string characters out of 5858184
+ 1347011 words of memory out of 5000000
+ 52556 multiletter control sequences out of 15000+600000
+ 425993 words of font info for 73 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 97i,11n,102p,3418b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfbx0800.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfbx2986.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfbx3583.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfti1440.pfb>
-Output written on /Users/artemnosenko/Documents/Diploma/LaTex/vdW-DFT/.texpadtmp/main.pdf (51 pages, 4815917 bytes).
+ 97i,11n,102p,3380b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfbx0800.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfbx2986.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfbx3583.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfti1440.pfb>
+Output written on /Users/artemnosenko/Documents/Diploma/LaTex/vdW-DFT/.texpadtmp/main.pdf (51 pages, 4838574 bytes).
 PDF statistics:
- 1298 PDF objects out of 1440 (max. 8388607)
- 746 compressed objects within 8 object streams
- 193 named destinations out of 1000 (max. 500000)
+ 1327 PDF objects out of 1440 (max. 8388607)
+ 772 compressed objects within 8 object streams
+ 202 named destinations out of 1000 (max. 500000)
  305 words of extra memory for PDF output out of 10000 (max. 10000000)
 
