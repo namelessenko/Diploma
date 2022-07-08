@@ -1,2 +1,2 @@
-# My masters diploma thesis
+# My master's diploma thesis
 
