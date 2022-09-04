@@ -1,6 +1,6 @@
-This is BibTeX, Version 0.99d (TeX Live 2021)
+This is BibTeX, Version 0.99d (TeX Live 2022)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
-The top-level auxiliary file: /Users/artemnosenko/Documents/Diploma/LaTex/vdW-DFT/.texpadtmp/main.aux
+The top-level auxiliary file: /Users/artemnosenko/Diploma/.texpadtmp/main.aux
 The style file: ieeetr.bst
 A level-1 auxiliary file: titelpage.aux
 A level-1 auxiliary file: summary.aux
@@ -8,7 +8,7 @@ A level-1 auxiliary file: chapter1.aux
 A level-1 auxiliary file: chapter2.aux
 A level-1 auxiliary file: chapter3.aux
 A level-1 auxiliary file: concl.aux
-Illegal, another \bibstyle command---line 32 of file /Users/artemnosenko/Documents/Diploma/LaTex/vdW-DFT/.texpadtmp/main.aux
+Illegal, another \bibstyle command---line 31 of file /Users/artemnosenko/Diploma/.texpadtmp/main.aux
  : \bibstyle
  :          {unsrt}
 I'm skipping whatever remains of this command
@@ -24,7 +24,7 @@ I was expecting a `,' or a `}'---line 1192 of file ../biliog.bib
 I'm skipping whatever remains of this entry
 You've used 73 entries,
             1876 wiz_defined-function locations,
-            971 strings with 17298 characters,
+            971 strings with 17250 characters,
 and the built_in function-call counts, 25655 in all, are:
 = -- 2680
 > -- 1025
